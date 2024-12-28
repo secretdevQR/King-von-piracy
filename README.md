@@ -30,3 +30,4 @@ https://code.visualstudio.com/ is the editor to write the code in it .
 https://www.python.org/downloads/ this is the requirement for the script to run u always need python for python scripts to run it.
 (or download python from microsoft store its up to u)
 
+WINDOWS 11 , 10 , 7 
